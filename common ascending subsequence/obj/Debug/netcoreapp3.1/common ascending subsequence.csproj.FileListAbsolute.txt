@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\common ascending subsequence\common ascending subsequence\bin\Debug\netcoreapp3.1\common ascending subsequence.exe
+C:\Users\ADMIN\Desktop\common ascending subsequence\common ascending subsequence\bin\Debug\netcoreapp3.1\common ascending subsequence.deps.json
+C:\Users\ADMIN\Desktop\common ascending subsequence\common ascending subsequence\bin\Debug\netcoreapp3.1\common ascending subsequence.runtimeconfig.json
+C:\Users\ADMIN\Desktop\common ascending subsequence\common ascending subsequence\bin\Debug\netcoreapp3.1\common ascending subsequence.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\common ascending subsequence\common ascending subsequence\bin\Debug\netcoreapp3.1\common ascending subsequence.dll
+C:\Users\ADMIN\Desktop\common ascending subsequence\common ascending subsequence\bin\Debug\netcoreapp3.1\common ascending subsequence.pdb
+C:\Users\ADMIN\Desktop\common ascending subsequence\common ascending subsequence\obj\Debug\netcoreapp3.1\common ascending subsequence.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\common ascending subsequence\common ascending subsequence\obj\Debug\netcoreapp3.1\common ascending subsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\common ascending subsequence\common ascending subsequence\obj\Debug\netcoreapp3.1\common ascending subsequence.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\common ascending subsequence\common ascending subsequence\obj\Debug\netcoreapp3.1\common ascending subsequence.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\common ascending subsequence\common ascending subsequence\obj\Debug\netcoreapp3.1\common ascending subsequence.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\common ascending subsequence\common ascending subsequence\obj\Debug\netcoreapp3.1\common ascending subsequence.dll
+C:\Users\ADMIN\Desktop\common ascending subsequence\common ascending subsequence\obj\Debug\netcoreapp3.1\common ascending subsequence.pdb
+C:\Users\ADMIN\Desktop\common ascending subsequence\common ascending subsequence\obj\Debug\netcoreapp3.1\common ascending subsequence.genruntimeconfig.cache
